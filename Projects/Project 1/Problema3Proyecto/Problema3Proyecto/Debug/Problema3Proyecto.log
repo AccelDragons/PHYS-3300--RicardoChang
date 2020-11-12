@@ -1,0 +1,4 @@
+﻿  Problema3Proyecto.cpp
+C:\Users\ricky\source\repos\Problema3Proyecto\Problema3Proyecto\Problema3Proyecto.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ricky\source\repos\Problema3Proyecto\Problema3Proyecto\Problema3Proyecto.cpp(143,23): warning C4018: '<': signed/unsigned mismatch
+  Problema3Proyecto.vcxproj -> C:\Users\ricky\source\repos\Problema3Proyecto\Debug\Problema3Proyecto.exe
