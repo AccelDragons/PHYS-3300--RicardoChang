@@ -1,0 +1,4 @@
+﻿  Asignacion 1.cpp
+C:\Users\ricky\source\repos\Asignacion 1\Asignacion 1\Asignacion 1.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ricky\source\repos\Asignacion 1\Asignacion 1\Asignacion 1.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+  Asignacion 1.vcxproj -> C:\Users\ricky\source\repos\Asignacion 1\Debug\Asignacion 1.exe
